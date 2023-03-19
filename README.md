@@ -37,6 +37,8 @@
 <br>
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush-Balodi)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Balodi" />
 </div>
